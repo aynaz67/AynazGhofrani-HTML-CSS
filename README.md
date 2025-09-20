@@ -7,10 +7,10 @@ A simple HTML/CSS project that displays photos of having Fun.
 
 
 ## Live Demo
-[View on GitHub Pages](https://elnazqofrani.github.io/ElnazGhofrani_HtmlCss/)
+[View on GitHub Pages](https://aynaz67.github.io/AynazGhofrani-HTML-CSS/)
 
 ## Features
-2. Centered image
+2. Centered an image
 3. Styled with CSS
 
 ## Built With
