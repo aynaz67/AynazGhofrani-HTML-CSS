@@ -1,5 +1,5 @@
 # AynazGhofrani HtmlCss
-A simple HTML/CSS project that displays photos of London landmarks.  
+A simple HTML/CSS project that displays photos of having Fun.  
 
 ## Installation
 1. Clone the repo: `git clone https://github.com/aynaz67/AynazGhofrani-HTML-CSS`
@@ -8,7 +8,7 @@ A simple HTML/CSS project that displays photos of London landmarks.
 
 ## Live Demo
 [View on GitHub Pages](https://elnazqofrani.github.io/ElnazGhofrani_HtmlCss/)
-[View on GitHub Pages](https://elnazqofrani.github.io/ElnazGhofrani_HtmlCss/)
+
 ## Features
 2. Centered image
 3. Styled with CSS
